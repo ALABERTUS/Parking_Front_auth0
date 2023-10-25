@@ -11,9 +11,6 @@ const Header = () => {
                 <Link to="/">
                     Home
                 </Link>
-                <Link to="/parkings">
-                    Parkings
-                </Link>
                 {isAuthenticated ? ( <LogoutButton /> ) : (
                     <>
                     <LoginButton />
