@@ -41,3 +41,8 @@
     font-size: 18px;
     margin-top: 10px;
   }
+
+/* body background */
+body {
+  background-color: #2475D9;
+}
