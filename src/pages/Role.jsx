@@ -5,8 +5,6 @@ const Role = () => {
     const { getAccessTokenSilently } = useAuth0();
     const [roles, setRoles] = useState([]);
 
-
-    
     useEffect(() => {
         const updateEventList = async () => {
             try {
