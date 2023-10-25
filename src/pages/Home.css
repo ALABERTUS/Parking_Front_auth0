@@ -31,18 +31,18 @@
   }
   
   /* Estilo para el mensaje de bienvenida */
-  .welcome-message {
+.welcome-message {
     font-size: 24px;
     margin-top: 20px;
   }
   
   /* Estilo para el correo electrónico */
-  .email {
+.email {
     font-size: 18px;
     margin-top: 10px;
   }
 
-/* body background */
+
 body {
   background-color: #2475D9;
 }
