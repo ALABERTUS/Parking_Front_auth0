@@ -1,0 +1,16 @@
+/* Estilo para el botón de inicio de sesión */
+.login-button {
+    background-color: #0077FF; /* Color de fondo del botón (puedes personalizarlo) */
+    color: #fff; /* Color del texto (puedes personalizarlo) */
+    border: none;
+    padding: 15px 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Estilo para el botón al pasar el cursor sobre él (efecto hover) */
+  .login-button:hover {
+    background-color: #0055CC; /* Color de fondo al pasar el cursor (puedes personalizarlo) */
+  }
+  

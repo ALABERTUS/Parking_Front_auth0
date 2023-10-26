@@ -1,0 +1,22 @@
+.reverse-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.reverse-details{
+    width:350px;
+    text-align:center;
+    background-color: #FFF;
+    padding:30px 30px;
+}
+
+.success-message {
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+/* Estilo para el botón de cierre de sesión */
+.logout-button {
+    background-color: #FF0000; /* Color de fondo del botón (puedes personalizarlo) */
+    color: #fff; /* Color del texto (puedes personalizarlo) */
+    border: none;
+    padding: 15px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Estilo para el botón al pasar el cursor sobre él (efecto hover) */
+  .logout-button:hover {
+    background-color: #CC0000; /* Color de fondo al pasar el cursor (puedes personalizarlo) */
+  }
+  
