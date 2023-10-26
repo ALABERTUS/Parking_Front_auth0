@@ -1,0 +1,15 @@
+.auth-button {
+    margin: 0;
+    padding: 8px 12px;  
+    border: none;
+    background-color: #2075D9;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size:18px;
+}
+
+.auth-button:hover {
+    background-color: #2075D9;
+    color:blue;
+}
